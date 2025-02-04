@@ -1,7 +1,7 @@
 let score= "33"
 
 console.log(typeof score)
-console.log(typeof (score))
+//or we can write like this also:  console.log(typeof (score))
 
 //right now 33 is a string, but we want to convert it into a number
 let valueInNumber= Number(score)      
