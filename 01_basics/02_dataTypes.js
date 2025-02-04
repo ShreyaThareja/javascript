@@ -30,5 +30,5 @@ console.log(myVar2)           //output: undefined
 //object
 console.log(typeof "shreya")
 console.log(typeof age)
-console.log(typeof null)          //output: object
+console.log(typeof null)         //output: object
 console.log(typeof undefined)
