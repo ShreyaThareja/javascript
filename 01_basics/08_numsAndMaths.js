@@ -25,4 +25,3 @@ console.log(Math.max(2,3,4,5))
 
 console.log(Math.random())        //gives us value between 0 and 1
 console.log((Math.random()*10) +1)     //so this will give us a value between 1 and 10
-
